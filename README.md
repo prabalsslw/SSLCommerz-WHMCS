@@ -26,6 +26,10 @@ Test Mode =
 Click `Save Changes`
 9. The module is now and ready.
 
+### Image Reference
+
+![Payments Menu](Configuration in WHMCMS.png)
+
 ## Frequently Asked Questions
 
 ### I want my customer will bear the gateway charges. How can I do that?
