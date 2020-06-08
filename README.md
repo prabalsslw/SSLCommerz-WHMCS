@@ -28,7 +28,7 @@ Click `Save Changes`
 
 ### Image Reference
 
-![Payments Menu](Configuration in WHMCMS.png)
+![Payments Menu](config.png)
 
 ## Frequently Asked Questions
 
